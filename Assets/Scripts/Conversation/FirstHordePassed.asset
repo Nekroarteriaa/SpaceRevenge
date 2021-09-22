@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb28779c7044a3479fc701df1695d26, type: 3}
+  m_Name: FirstHordePassed
+  m_EditorClassIdentifier: 
+  SpeakerOne: {fileID: 11400000, guid: ed4f53085cb681449b2ef45548307153, type: 2}
+  SpeakerTwo: {fileID: 0}
+  Lines:
+  - PilotGirl: {fileID: 11400000, guid: ed4f53085cb681449b2ef45548307153, type: 2}
+    PilotText: Clear zone, Commander
+  - PilotGirl: {fileID: 11400000, guid: bab412010b5b9ab439813a7a58c31399, type: 2}
+    PilotText: Soldier, keep the line. We need to mantain distance if we want to
+      live.
+  - PilotGirl: {fileID: 11400000, guid: 564c5674885f0ac4c846bde66c5c9f86, type: 2}
+    PilotText: It wasn't that bad.
+  - PilotGirl: {fileID: 11400000, guid: ed4f53085cb681449b2ef45548307153, type: 2}
+    PilotText: Commander, a second wave is comming.
+  - PilotGirl: {fileID: 11400000, guid: bab412010b5b9ab439813a7a58c31399, type: 2}
+    PilotText: Prepare yourselves.
